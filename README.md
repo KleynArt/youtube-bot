@@ -1,6 +1,6 @@
-# youtubebot
-youtube bot para fazer download de musicas e videos
-## Para rodar o seu próprio bot
+# youtube-bot
+Este es un bot de Youtube para telegram, puede subir videos y auidodeos
+## Para ejecutar tu propio bot
 1. git clone https://github.com/estevaofon/youtubebot.git
 2. pip install -r requirements.txt
 3. Obtenha uma API_KEY com o botfather e coloque no .env
