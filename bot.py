@@ -14,7 +14,7 @@ if os.path.exists('.env'):
         if len(var) == 2:
             os.environ[var[0]] = var[1]
 
-TOKEN = os.environ.get('TOKEN')
+TOKEN = os.environ.get('5035262157:AAEJsMkJVRCceFWCM8Zt9L5lSvhVZdpgF5Q')
 updater = Updater(token=TOKEN)
 dispatcher = updater.dispatcher
 import logging
