@@ -1,5 +1,5 @@
 # youtube-bot
-Este es un bot de Youtube para telegram, puede subir videos y auidodeos
+Este es un bot de Youtube para telegram, puede subir videos y audios
 ## Para ejecutar tu propio bot
 1. git clone https://github.com/estevaofon/youtubebot.git
 2. pip install -r requirements.txt
